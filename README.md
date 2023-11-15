@@ -21,4 +21,4 @@
 ## 📫 How to Reach Me
 
 - Malt: [Malt profile](https://www.malt.fr/profile/bricedeguigne)
-- Email: [Contact me !](brice.deguigne@epitech.eu)
+- Email: brice.deguigne@epitech.eu
