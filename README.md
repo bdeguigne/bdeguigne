@@ -2,17 +2,16 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Passionate about mobile development, currently specializing in Flutter.
-- 🔭 Working on various Flutter projects, primarily using the Riverpod framework for state management.
+- 🌱 Passionate about web development, currently crafting immersive experiences
+- 🔭 Working on various projects, primarily using the ThreeJs Library.
 - 📚 Always seeking new knowledge and best practices in software architecture.
-- 🎯 Goal: Creating efficient, scalable, and maintainable Flutter applications.
+- 🎯 Goal: Creating efficient, and beautiful websites
 
 ## 🚀 Languages and Tools:
 
-- Flutter & Dart 🐦
-- Riverpod 🔄
+- ThreeJs & Gsap 🐦
+- React 🚀
 - Git & GitHub 🌍
-- Supabase 🚀
 
 ## 📈 My GitHub Stats
 
