@@ -5,7 +5,7 @@
 - 🌱 Passionate about web development, currently crafting immersive experiences
 - 🔭 Working on various projects, primarily using the ThreeJs Library.
 - 📚 Always seeking new knowledge and best practices in software architecture.
-- 🎯 Goal: Creating efficient, and beautiful websites
+- 🎯 Goal: Creating efficient, performant, and beautiful websites
 
 ## 🚀 Languages and Tools:
 
