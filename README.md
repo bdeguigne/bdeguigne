@@ -19,4 +19,4 @@
 ## 📬 Get in Touch  
 
 - 🌍 Malt: [My Profile](https://www.malt.fr/profile/bricedeguigne)  
-- 📧 Email: brice.deguigne@epitech.eu 
+- 💬 X/Twitter: [@brice_deg]([https://x.com/ton_handle](https://x.com/brice_deg))  
