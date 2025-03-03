@@ -1,23 +1,22 @@
-# Hello, I'm Brice 👋
+# Hey, I'm Brice 👋
 
-## 👨‍💻 About Me
+## 🎨 Crafting Immersive Web Experiences  
 
-- 🌱 Passionate about web development, currently crafting immersive experiences
-- 🔭 Working on various projects, primarily using the ThreeJs Library.
-- 📚 Always seeking new knowledge and best practices in software architecture.
-- 🎯 Goal: Creating efficient, performant, and beautiful websites
+- 🚀 Passionate about web development, blending **creative design** with **cutting-edge tech**  
+- 🎯 Currently focusing on **Three.js**, **GSAP**, and **modern UI/UX** to build stunning, interactive websites  
+- 📚 Always exploring new tools, best practices, and software architecture improvements  
 
-## 🚀 Languages and Tools:
+## 🛠️ Tech Stack  
 
-- ThreeJs & Gsap 🐦
-- React 🚀
-- Git & GitHub 🌍
+- **3D & Animations**: Three.js, GSAP  
+- **Frontend**: React, Next.js  
+- **Dev Tools**: Git, GitHub  
 
-## 📈 My GitHub Stats
+## 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bdeguigne&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bdeguigne&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 
-## 📫 How to Reach Me
+## 📬 Get in Touch  
 
-- Malt: [Malt profile](https://www.malt.fr/profile/bricedeguigne)
-- Email: brice.deguigne@epitech.eu
+- 🌍 Malt: [My Profile](https://www.malt.fr/profile/bricedeguigne)  
+- 📧 Email: brice.deguigne@epitech.eu 
