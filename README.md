@@ -18,5 +18,6 @@
 
 ## 📬 Get in Touch  
 
-- 🌍 Malt: [My Profile](https://www.malt.fr/profile/bricedeguigne)  
 - 💬 X/Twitter: [@brice_deg](https://x.com/brice_deg)
+- 🌍 Malt: [My Profile](https://www.malt.fr/profile/bricedeguigne)  
+
