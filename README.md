@@ -12,10 +12,6 @@
 - **Frontend**: React, Next.js  
 - **Dev Tools**: Git, GitHub  
 
-## 📊 GitHub Stats  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bdeguigne&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-
 ## 📬 Get in Touch  
 
 - 💬 X/Twitter: [@brice_deg](https://x.com/brice_deg)
