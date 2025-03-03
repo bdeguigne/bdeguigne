@@ -1,6 +1,6 @@
 # Hey, I'm Brice 👋
 
-## 🎨 Crafting Immersive Web Experiences  
+## 🎨 Currently Crafting Immersive Web Experiences  
 
 - 🚀 Passionate about web development, blending **creative design** with **cutting-edge tech**  
 - 🎯 Currently focusing on **Three.js**, **GSAP**, and **modern UI/UX** to build stunning, interactive websites  
