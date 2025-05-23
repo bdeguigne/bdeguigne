@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack  
 
 - **3D & Animations**: Three.js, GSAP  
-- **Frontend**: React, Next.js  
+- **Frontend**: React, Vite
 - **Dev Tools**: Git, GitHub  
 
 ## 📬 Get in Touch  
